@@ -73,13 +73,13 @@ function membuatArrayRandom(length) {
   const averageGanjil = hitungRerata(ArrayGanjil);
  
   // Menghitung nilai minimal, maximal, total, dan rata-rata untuk array genap
-  console.log("---------- Min, Max, Total, Rata-rata pada Nilai Genap ----------");
+  console.log("---------- Informasi Nilai Genap ----------");
   console.log("Minimal Nilai Genap: ", minGenap);
   console.log("Maximal Nilai Genap: ", maxGenap);
   console.log("Total Nilai Genap: ", totalGenap);
   console.log("Rata-rata Nilai Genap: ", averageGenap, "\n");
   // Menghitung nilai minimal, maximal, total, dan rata-rata untuk array ganjil
-  console.log("---------- Min, Max, Total, Rata-rata pada Nilai Ganjil ----------");
+  console.log("---------- Informasi Nilai Ganjil ----------");
   console.log("Minimal Nilai Ganjil: ", minGanjil);
   console.log("Maximal Nilai Ganjil: ", maxGanjil);
   console.log("Total Nilai Ganjil: ", totalGanjil);
